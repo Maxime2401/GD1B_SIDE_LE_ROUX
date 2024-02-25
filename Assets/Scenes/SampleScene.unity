@@ -3301,7 +3301,7 @@ MonoBehaviour:
   invincible: 0
   graphics: {fileID: 1081720076}
   HealthBar: {fileID: 1624320147}
-  teleportPosition: {x: -921.3, y: 308, z: -0.94306}
+  teleportPosition: {x: 829.9, y: -415.8, z: 25.197}
 --- !u!95 &1081720081
 Animator:
   serializedVersion: 5
